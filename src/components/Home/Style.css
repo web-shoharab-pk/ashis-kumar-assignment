@@ -1,0 +1,41 @@
+body{
+    overflow-x: hidden;
+}
+.getMoreBtn{ 
+    text-align: center;
+    padding: 0 20px;
+     background-color: #00E18E;
+     color: white !important;
+     border-radius: 25px;
+}
+
+.headerSection{ 
+  
+    width: 100%; 
+    min-height: 155vh;
+    background-image: url('../images/headerBg.png');
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-position: center;
+}
+
+.signUpBtn{
+    border: none;
+    border-radius: 25px;
+    padding: 5px 20px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    background: linear-gradient(0deg, #936EFF, #7C51FF);
+    box-shadow: 1px 5px 15px  #936EFF;
+}
+
+.footer{
+    background-image: url('../images/footerBg.png');
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-position: center;
+}
+.footer img{
+    margin: 175px 80px; 
+}
